@@ -1,0 +1,2 @@
+# newtheme
+Theme para wordpress
